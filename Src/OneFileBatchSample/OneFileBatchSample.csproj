@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>app</AssemblyName>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6</TargetFramework>
+    <PublishSingleFile>true</PublishSingleFile>
+  </PropertyGroup>
+
+</Project>
